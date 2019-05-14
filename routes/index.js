@@ -6,5 +6,5 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Hello World - This is awesome. This is great!' });
 });
 
-//Dummy
+//Dummy change for demo
 module.exports = router;
